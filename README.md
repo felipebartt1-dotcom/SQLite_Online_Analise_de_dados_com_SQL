@@ -12,8 +12,9 @@ O objetivo é acompanhar o progresso das aulas por meio de práticas guiadas e d
 ## 📂 Estrutura do Repositório  
 
 - `banco_de_dados_vendas` → Arquivo principal do banco de dados utilizado nas consultas.  
-- `Mão na massa_ consolidação e comparação de quantidades.sql` → Exercício prático para consolidar e comparar informações de quantidades em diferentes tabelas.  
-- `Desafio_ ajuste de valores em bases de produtos.sql` → Desafio final para aplicar ajustes e validações em registros de produtos.  
+- `Aula 1 - Mão na massa_ consolidação e comparação de quantidades.sql` → Exercício prático para consolidar e comparar informações de quantidades em diferentes tabelas.  
+- `Aula 1 - Desafio_ ajuste de valores em bases de produtos.sql` → Desafio final para aplicar ajustes e validações em registros de produtos.
+- `Aula 2 - Faça como eu fiz` → Consultas SQL para análise de comportamento de vendas ao longo dos anos. 
 
 ---
 
