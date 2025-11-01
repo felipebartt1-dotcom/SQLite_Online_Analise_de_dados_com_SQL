@@ -1,2 +1,42 @@
-# SQLite_Online_Analise_de_dados_com_SQL
-Nesse repositório irei colocar as consultas que fiz durante as aulas de SQL do curso: SQLite Online: Analise de dados com SQL. 
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-F7DF1E?style=flat&logo=sql&logoColor=black)  
+
+# 🧠 Curso SQLite Online: Análise de Dados com SQL  
+
+Nesse repositório estão as consultas desenvolvidas durante o curso **"SQLite Online: Análise de Dados com SQL"** da **Alura**.  
+
+O objetivo é acompanhar o progresso das aulas por meio de práticas guiadas e desafios utilizando o banco de dados de vendas.  
+
+---
+
+## 📂 Estrutura do Repositório  
+
+- `banco_de_dados_vendas` → Arquivo principal do banco de dados utilizado nas consultas.  
+- `Mão na massa_ consolidação e comparação de quantidades.sql` → Exercício prático para consolidar e comparar informações de quantidades em diferentes tabelas.  
+- `Desafio_ ajuste de valores em bases de produtos.sql` → Desafio final para aplicar ajustes e validações em registros de produtos.  
+
+---
+
+## 🚀 Como Utilizar  
+
+1. **Baixe o banco de dados** (`banco_de_dados_vendas`).  
+2. **Abra as consultas** na ordem em que estão listadas acima.  
+3. **Execute cada script** para acompanhar o progresso das aulas e entender as técnicas de análise e manipulação de dados com SQL.  
+
+---
+
+## 🧩 Tecnologias Utilizadas  
+
+- **SQLite**  
+- **SQL**  
+- **Alura Online Courses**  
+
+---
+
+## 📘 Sobre o Projeto  
+
+Este repositório serve como apoio de estudo para reforçar conceitos de:  
+- Agregação e consolidação de dados;  
+- Comparação entre tabelas;  
+- Atualização e ajuste de informações;  
+- Boas práticas em consultas SQL.  
