@@ -14,7 +14,8 @@ O objetivo é acompanhar o progresso das aulas por meio de práticas guiadas e d
 - `banco_de_dados_vendas` → Arquivo principal do banco de dados utilizado nas consultas.  
 - `Aula 1 - Mão na massa_ consolidação e comparação de quantidades.sql` → Exercício prático para consolidar e comparar informações de quantidades em diferentes tabelas.  
 - `Aula 1 - Desafio_ ajuste de valores em bases de produtos.sql` → Desafio final para aplicar ajustes e validações em registros de produtos.
-- `Aula 2 - Faça como eu fiz` → Consultas SQL para análise de comportamento de vendas ao longo dos anos. 
+- `Aula 2 - Faça como eu fiz` → Consultas SQL para análise de comportamento de vendas ao longo dos anos.
+- `Aula 3 - Mão na massa: preparativos finais para a reunião` → Consultas para análise do papel dos fornecedores e das categorias de produtos durante o mês da Black Friday.
 
 ---
 
