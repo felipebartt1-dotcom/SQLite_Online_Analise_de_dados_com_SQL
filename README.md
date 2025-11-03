@@ -17,6 +17,7 @@ O objetivo é acompanhar o progresso das aulas por meio de práticas guiadas e d
 - `Aula 2 - Faça como eu fiz` → Consultas SQL para análise de comportamento de vendas ao longo dos anos.
 - `Aula 3 - Mão na massa: preparativos finais para a reunião` → Consultas para análise do papel dos fornecedores e das categorias de produtos durante o mês da Black Friday.
 - `Aula 3 - Faça como eu fiz` → Consulta com a análise de vendas na Black Friday por fornecedor e categoria.
+- `Aula 4 - Mão na massa_ Calculando_a_Participação_de_Mercado_de_Marcas_e_Fornecedores` → Consulta para calcular a porcentagem de vendas por marca e por fornecedor.
 
 
 ---
